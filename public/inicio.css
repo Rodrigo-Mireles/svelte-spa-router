@@ -1,0 +1,17 @@
+#header{
+    background: burlywood;
+}
+#header img{
+    width: 40px;
+}
+
+#header a{
+    color: #000000;
+}
+
+#primario{
+    background: linear-gradient(90deg,#1c3643,#273b47 25%,#1e5372);
+}
+#primario a{
+    color: antiquewhite;
+}
